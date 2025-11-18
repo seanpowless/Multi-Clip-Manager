@@ -306,7 +306,8 @@ No configuration needed - just works! ✨
 
 ---
 
-**Enjoy!** 🎯
+**Enjoy!**
  
 �
+
 
