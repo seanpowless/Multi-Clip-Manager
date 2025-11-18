@@ -1,4 +1,4 @@
-# Multi-Clipboard Manager (MCM) v1.1.0
+# Multi-Clip-Manager (MCM) v1.1.0
 
 **Simple, clean, and functional clipboard manager for Chrome/Edge with selection-based actions.**
 
@@ -308,6 +308,7 @@ No configuration needed - just works! ✨
 
 **Enjoy!**
  
+
 
 
 
