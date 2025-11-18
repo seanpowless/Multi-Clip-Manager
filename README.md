@@ -2,7 +2,7 @@
 
 **Simple, clean, and functional clipboard manager for Chrome/Edge with selection-based actions.**
 
-## ✨ What's New in v1.1.0
+##  What's New in v1.1.0
 
 ### **Selection-Based UI**
 - Click any clip to select it (buttons slide in at bottom)
@@ -28,7 +28,7 @@ Right-click on webpage →
 
 ---
 
-## 🎮 How to Use
+##  How to Use
 
 ### **Minimalist View (Default)**
 ```
@@ -67,7 +67,7 @@ Right-click on webpage →
 
 ---
 
-## 🎯 Button Functions
+##  Button Functions
 
 ### **Top Bar (Global Actions)**
 | Button | Function | Behavior |
@@ -109,7 +109,7 @@ Right-click on webpage →
 
 ---
 
-## 🖱️ Right-Click Context Menu
+##  Right-Click Context Menu
 
 ### **On Any Webpage:**
 
@@ -137,7 +137,7 @@ Click any clip to paste directly into the field!
 
 ---
 
-## 📦 Installation
+##  Installation
 
 ### **Files Needed:**
 ```
@@ -168,7 +168,7 @@ mcm-v1.1.0/
 
 ---
 
-## 🎨 Light & Dark Mode
+##  Light & Dark Mode
 
 Automatically adapts to your browser/OS theme!
 
@@ -186,7 +186,7 @@ No configuration needed - just works! ✨
 
 ---
 
-## 💡 Pro Tips
+##  Pro Tips
 
 ### **Workflow Optimization:**
 1. **Pin frequently used clips** (API keys, email templates, addresses)
@@ -207,7 +207,7 @@ No configuration needed - just works! ✨
 
 ---
 
-## 🔧 Technical Details
+##  Technical Details
 
 **Storage:**
 - `chrome.storage.local` (unlimited)
@@ -231,7 +231,7 @@ No configuration needed - just works! ✨
 
 ---
 
-## 🐛 Troubleshooting
+##  Troubleshooting
 
 **Context menu not showing clips?**
 - Reload the extension
@@ -256,7 +256,7 @@ No configuration needed - just works! ✨
 
 ---
 
-## 🎯 What Makes This Great
+##  What Makes This Great
 
 ### **Thoughtful UX:**
 - ✅ Actions appear where you're looking (bottom of clip)
@@ -278,7 +278,7 @@ No configuration needed - just works! ✨
 
 ---
 
-## 🚀 Future Ideas (v1.2+)
+##  Future Ideas (v1.2+)
 
 - Search/filter clips by keyword
 - Categories/tags for organization
@@ -290,7 +290,7 @@ No configuration needed - just works! ✨
 
 ---
 
-## 📝 Version History
+##  Version History
 
 **v1.1.0** (Current)
 - Selection-based UI with slide-in buttons
@@ -307,8 +307,6 @@ No configuration needed - just works! ✨
 ---
 
 **Enjoy!** 🎯
+ 
+�
 
-A clicker's dream - right-click to save, right-click to paste, click to select, double-click to copy. Every interaction feels natural and responsive.
-
-
-**The selection model is perfect** - buttons appear exactly where you need them, keeping the UI clean while scrolling. This is how clipboard managers should work! 🚀
