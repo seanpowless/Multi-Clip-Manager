@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <!-- Top Bar -->
+  <div class="top-bar">
+    <div class="title-section">
+      <img src="icon16.png" alt="MCM" class="icon">
+      <span class="title">MCM</span>
+    </div>
+    <div class="button-group">
+      <button id="add-btn" class="icon-btn" title="Add clip">+</button>
+      <button id="expand-btn" class="icon-btn" title="Expand/Collapse">≡</button>
+      <button id="copy-all-btn" class="icon-btn" title="Copy all clips">📋</button>
+      <button id="clear-btn" class="icon-btn" title="Clear all clips">🗑️</button>
+      <button id="pin-filter-btn" class="icon-btn" title="Show pinned only">📌</button>
+      <button id="top-btn" class="icon-btn" title="Pin to top">⬆️</button>
+    </div>
+  </div>
+
+  <!-- Stats Bar -->
+  <div id="stats-bar">
+    <span id="clip-count">0 clips</span>
+    <span id="pinned-count"></span>
+  </div>
+
+  <!-- Add Section -->
+  <div id="add-section" style="display: none;">
+    <textarea id="new-clip-text" placeholder="Paste or type new snippet here..." maxlength="10000"></textarea>
+    <div class="add-actions">
+      <button id="save-btn" class="primary-btn">Save</button>
+      <button id="cancel-btn" class="secondary-btn">Cancel</button>
+    </div>
+  </div>
+
+  <!-- Clip Display -->
+  <div id="clip-content">
+    <div id="clip-display">
+      <!-- Clips dynamically inserted here -->
+    </div>
+    <div id="empty-state" style="display: none;">
+      <p>No clips yet</p>
+      <p class="hint">Press + to add your first clip</p>
+    </div>
+  </div>
+
+  <script src="popup.js"></script>
+</body>
+</html>
